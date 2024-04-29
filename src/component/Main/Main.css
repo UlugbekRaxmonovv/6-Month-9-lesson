@@ -1,0 +1,166 @@
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 80px;
+    margin-top: 150px;
+
+}
+.card{
+    padding: 200px 0;
+    display: flex;
+
+
+}
+.card-all >h1{
+    width: 522.06px;
+    height: 146px;
+    font-family: Arial;
+font-size: 55px;
+font-weight: 900;
+line-height: 68px;
+letter-spacing: 0.47999998927116394px;
+text-align: left;
+margin-top: 20px;
+
+}
+.card-all >p{
+    width: 488.04px;
+    height: 47.25px;
+    top: 2px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+font-size: 15px;
+font-weight: 400;
+line-height: 26.25px;
+letter-spacing: 0.47999998927116394px;
+text-align: left;
+margin-top: 20px;
+ 
+}
+.span-all{
+    display: flex;
+    gap: 10px;
+}
+span{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    color: #F53E32;   
+}
+.span-all >p{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    
+}
+.btn{
+    width: 450px;
+    height: 64px;
+    top: 571px;
+    gap: 0px;
+    border-radius: 50px;
+    opacity: 0px;
+    background-color: #d3d3d3;  
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+}
+.btn1{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 450px;
+    height: 64px;
+    margin-left: 5%;
+   }
+.btn2 >input{
+    background-color: #d3d3d3; 
+}
+.btn2 >img{
+    width: 20px;
+    height: 20px;
+}
+.btn >button{
+    width: 157.55px;
+    height: 64px;
+    left: 292.45px;
+    padding: 22px 39.68px 22px 40px;
+    gap: 0px;
+    border-radius: 50px;
+    outline: none;
+    border: none;
+    background: #3BB77E;
+    font-family: Quicksand;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+    text-align: center;  
+    color: #FFFFFF ;
+}
+
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: -300px;
+}
+.button-all{
+width: 139.06px;
+height: 46px;
+top: 264px;
+left: 944px;
+padding: 12px 20.68px 13px 21px;
+border-radius:30px;
+border: 1px 0px 0px 0px;
+border: 1px solid #ECECEC;
+background-color: #d3d3d3; 
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.button-row >pre{
+font-size: 20px   
+}
+pre > span{
+    font-family: Quicksand;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 24px;
+     text-align: right;
+     color: #3BB77E;
+
+}
+
+.imagi{
+    margin-top: -80%;
+    max-width: 500px;
+    height: 400px;
+    width: 100%;
+    margin-top: 40%;
+
+    
+}
+.mySwiper{
+    max-width: 500px;
+    height: 800px;
+    width: 100%;
+    transform: rotate(-15deg);
+    /* margin-top: -40%; */
+
+
+  
+}
+.mysvapir {
+   
+}

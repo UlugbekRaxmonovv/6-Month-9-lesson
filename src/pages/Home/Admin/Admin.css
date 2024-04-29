@@ -1,0 +1,192 @@
+.Bannir{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    flex-wrap: wrap;
+    padding: 20px 0;
+
+}
+.Bannir-all >h1{
+    font-family: Manrope;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 46px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    
+}
+.tig-p{
+    margin-top: 20px;
+}
+.list-p2{
+    max-width: 621.83px;
+    width: 100%;
+    height: 69px;
+    top: 383px;
+    left: 312px;
+    gap: 0px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24.5px;
+    letter-spacing: 0.47999998927116394px;
+    color: #7A7A7A;
+
+    
+    
+}
+.list-p{
+    max-width: 621.83px;
+    width: 100%;
+    height: 69px;
+    top: 383px;
+    left: 312px;
+    gap: 0px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24.5px;
+    letter-spacing: 0.47999998927116394px;
+    color: #7A7A7A;
+    margin-top: 20px;
+}
+.list-p1{
+    max-width: 621.83px;
+    width: 100%;
+    height: 69px;
+    top: 383px;
+    left: 312px;
+    gap: 0px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24.5px;
+    letter-spacing: 0.47999998927116394px;
+    color: #7A7A7A;
+    margin-top: 20px;
+}
+
+
+.Bannir-all>img{
+    max-width: 636px;
+    width: 100%;
+    height: 530px;
+    border-radius: 5px 0px 0px 0px;
+    
+}
+
+
+
+
+.bannir-all{
+    width: 636px;
+    height: 142px;
+    top: 698px;
+    left: 312px;
+    padding: 25px 13.01px 25px 13px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    border: 1px solid #E9E9E9;
+    margin-top: 40px;
+    
+}
+.bannir-row{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.bannir-list >h1{
+    font-family: Manrope;
+font-size: 50px;
+font-weight: 700;
+line-height: 60px;
+text-align: center;
+color: red;
+
+}
+.bannir-list >h1 >span{
+    font-family: Manrope;
+font-size: 25px;
+font-weight: 700;
+line-height: 30px;
+text-align: center;
+color: #7A7A7A;
+
+
+}
+.bannir-list >h3{
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 16px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: center;
+    color: black;
+}
+
+
+.wrappir{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 33px;
+    flex-wrap: wrap;
+    padding: 50px 0;
+}
+
+.wrappir-all{
+    width: 306px;
+    height: 184px;
+    left: 330px;
+    padding: 25px 0px 0px 0px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid #E9E9E9    
+}
+.wrappir-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.box3{
+    width: 50px;
+    height: 4px;
+    background-color: #7A7A7A;
+    text-align: center;
+}
+.wrappir-list >h1{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 30.01px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: center;
+    color: #2B2B2D;
+    margin-top: 20px;
+    
+}
+.wrappir-list >p{
+    width: 250.34px;
+    height: 42px;
+    padding: 0 2px;
+    font-family: Poppins;
+font-size: 14px;
+font-weight: 300;
+line-height: 22px;
+letter-spacing: 0.47999998927116394px;
+text-align: center;
+color: #7A7A7A;
+
+}
+
+

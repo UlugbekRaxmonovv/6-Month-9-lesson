@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Quicksand:wght@300..700&family=Sedan:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Quicksand:wght@300..700&family=Sedan:ital@0;1&display=swap');
+section{
+    margin-top: 40px;
+}
+*{
+    font-family: "Lato", sans-serif;
+}
+.produc{
+    background-color: #D8F1E5;
+   padding: 120px 0;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.produc-all{
+    padding: 0px 70px;
+}
+body{
+    font-family: "Quicksand", sans-serif;
+
+}
+.produc-all >h1{
+    width: 529.4px;
+    height: 98px;
+    font-family: Quicksand;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+text-align: left;
+
+    
+}
+.produc-all > p{
+    width: 328.52px;
+height: 22px;
+top: 201px;
+left: 78px;
+gap: 0px;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+margin-top: 20px;
+
+}
+.gmail{
+    width: 473px;
+    height: 64px;
+    top: 269px;
+    left: 78px;
+    gap: 0px;
+    border-radius: 50px;
+    opacity: 0px;
+    background: #FFFFFF;      
+    display: flex;
+    gap: 60px;
+    margin-top: 20px;
+    
+
+}
+.gmail-row{
+    display: flex;
+    margin-left: 5%;
+    align-items: center;
+    gap: 10px;
+}
+
+.gmail >button{
+    width: 150px;
+    height: 64px;
+    top: 269px;
+    left: 78px;
+    border-radius: 50px;   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background: #F53E32;
+    color: wheat;
+    font-family: Quicksand;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0.5px;
+text-align: center;
+
+}
+.produc-all >img{
+width: 500.39px;
+height: 400.73px;
+transform: rotate(-5deg);
+
+}
+
+
+/* list */
+.list{
+padding: 40px 0;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 18px;
+flex-wrap: wrap;
+}
+.list-all{
+    width: 321px;
+height: 107px;
+top: 3008px;
+left: 147px;
+padding: 20px 51.84px 20px 20px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+background: #F4F6FA;
+display: flex;
+gap: 20px;
+justify-content: center;
+align-items: center;
+
+}
+.list-row >img{
+    width: 60px;
+height: 60px;
+
+}
+.list-row >h1{
+    width: 169.49px;
+height: 23px;
+font-family: Quicksand;
+font-size: 18px;
+font-weight: 600;
+line-height: 21.6px;
+text-align: left;
+
+}
+.list-row >p{
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    
+}

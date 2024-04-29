@@ -1,0 +1,152 @@
+.box1{
+    margin-top: 12%;
+    padding: 20px 0;
+    background: #F53E32;
+
+}
+.list-all2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.list-all2 >h1{
+    font-family: Manrope;
+    font-size: 19px;
+
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    color: white;
+
+    
+}
+.list-link1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.list-link1  li >a{
+    font-family: Poppins;
+    font-size: 14px;
+    letter-spacing: 0.47999998927116394px;
+    text-align: left;
+    color: white;
+    
+}
+svg{
+    margin-top: 10px;
+}
+
+
+
+.login-all{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 0;
+}
+
+.login-row{
+    width: 400px;
+    height: 420.75px;
+    border-radius: 5px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid #E9E9E9;
+    padding: 0 30px;
+}
+.login-row >img{
+    margin-left: 28%;
+}
+
+
+.input-all11{
+    width: 338px;
+    height: 44.38px;
+    top: 125px;
+    left: 31px;
+    padding: 15.19px 13px 12.19px 13px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid #E9E9E9    
+}
+.logo-list-row{
+    /* line-height: 3; */
+}
+.logo-list-row >p{
+    margin-top: 20px;
+    line-height: 2;
+}
+
+.remember{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0;
+    gap: 90px;
+}
+.img-all {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.img-row >p{
+    font-family: Segoe UI;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 15px;
+    text-align: left;
+    color: #777777;
+}
+
+.remember-all >p{
+    font-family: Segoe UI;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 15px;
+    text-align: left;
+    color: #777777;
+}
+
+.bnt{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bnt1 >button{
+    width: 80.11px;
+    height: 40px;
+    top: 332.75px;
+    left: 31px;
+    padding: 11.59px 20.68px 12.41px 21px;
+    border-radius: 5px;
+    background: #F53E32;
+    border: none;
+    font-family: Manrope;
+font-size: 14px;
+font-weight: 700;
+line-height: 16.8px;
+text-align: center;
+color: #FFFFFF;
+    
+}
+.bnt11 >button{
+    width: 80.11px;
+    height: 40px;
+    top: 332.75px;
+    left: 31px;
+    padding: 11.59px 20.68px 12.41px 21px;
+    border-radius: 5px;
+    background: #F53E32;
+    border: none;
+    font-family: Manrope;
+font-size: 14px;
+font-weight: 700;
+line-height: 16.8px;
+text-align: center;
+color: #FFFFFF;
+    
+}
